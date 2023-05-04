@@ -1,0 +1,294 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.first {
+  /* background-color: antiquewhite; */
+  height: 30px;
+  margin: 20px;
+  /* border: 5px solid black; */
+}
+.second {
+  display: flex;
+  justify-content: space-between;
+  color: none;
+}
+.wen {
+  padding-left: 7%;
+}
+.upper {
+  padding-left: 7%;
+}
+.first-box {
+  padding-left: 7%;
+}
+.box {
+  display: flex;
+  justify-content: space-between;
+  margin-left: -43%;
+  margin-top: 20px;
+  /* justify-content: right; */
+}
+.aso {
+  margin-bottom: 15px;
+}
+.rosa {
+  margin-bottom: 10px;
+  padding: 5px;
+  font-style: initial;
+  line-height: 1;
+}
+.soso {
+  margin-right: 50px;
+  margin-bottom: 35px;
+}
+.kop {
+  border-radius: 20px;
+  cursor: pointer;
+  box-shadow: 10px 10px 10px #ffebcd;
+  padding: 10px 22px;
+  text-align: center;
+  border: none;
+  margin-bottom: 10px;
+  margin-left: 45px;
+}
+.kop:hover {
+  background-color: blue;
+  color: white;
+  transition: 0.7s;
+}
+.wop {
+  border-radius: 20px;
+  cursor: pointer;
+  box-shadow: 10px 10px 10px #ffebcd;
+  padding: 10px 22px;
+  text-align: center;
+  border: none;
+  margin-bottom: 10px;
+}
+.wop:hover {
+  background-color: blue;
+  color: white;
+  transition: 0.7s;
+}
+.pop {
+  border-radius: 20px;
+  padding: 10px 22px;
+  box-shadow: 10px 10px 10px #ffebcd;
+  cursor: pointer;
+  text-align: center;
+  border: none;
+  margin-bottom: 10px;
+}
+.pop:hover {
+  background-color: blue;
+  color: white;
+  transition: 0.7s;
+}
+.rop {
+  border-radius: 20px;
+  padding: 10px 22px;
+  box-shadow: 10px 10px 10px #ffebcd;
+  cursor: pointer;
+  text-align: center;
+  border: none;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+.rop:hover {
+  background-color: blue;
+  color: white;
+  transition: 0.7s;
+}
+.gop {
+  border-radius: 20px;
+  padding: 10px 22px;
+  box-shadow: 10px 10px 10px #ffebcd;
+  cursor: pointer;
+  text-align: center;
+  border: none;
+  margin-bottom: 10px;
+}
+.gop:hover {
+  background-color: blue;
+  color: white;
+  transition: 0.7s;
+}
+.fop {
+  border-radius: 20px;
+  padding: 10px 22px;
+  box-shadow: 10px 10px 10px #ffebcd;
+  cursor: pointer;
+  text-align: center;
+  border: none;
+  margin-bottom: 10px;
+  margin-left: 25px;
+}
+.fop:hover {
+  background-color: blue;
+  color: white;
+  transition: 0.7s;
+}
+.sop {
+  border-radius: 20px;
+  padding: 10px 22px;
+  box-shadow: 10px 10px 10px #ffebcd;
+  cursor: pointer;
+  text-align: center;
+  border: none;
+  margin-bottom: 10px;
+}
+.sop:hover {
+  background-color: blue;
+  color: white;
+  transition: 0.7s;
+}
+.last-botton {
+  border-radius: 20px;
+  padding: 10px 22px;
+  box-shadow: 10px 10px 10px #ffebcd;
+  cursor: pointer;
+  text-align: center;
+  border: none;
+  margin-bottom: 10px;
+  margin-left: +99px;
+}
+.last-botton:hover {
+  background-color: blue;
+  color: white;
+}
+.elev {
+  border-radius: 20px;
+  padding: 7px 22px;
+  box-shadow: 10px 10px 10px #ffebcd;
+  cursor: pointer;
+  text-align: center;
+  border: none;
+  margin-top: 30px;
+  /* margin-bottom: -30px; */
+}
+.elev:hover {
+  background-color: blueviolet;
+  color: white;
+  transition: 0.7s;
+}
+.first-child {
+  color: rgba(188, 184, 184, 0.95);
+  padding-top: 10px;
+}
+.second-child {
+  color: rgba(188, 184, 184, 0.95);
+  padding-top: 10px;
+}
+.third-class {
+  color: rgba(188, 184, 184, 0.95);
+  padding-top: 10px;
+}
+.forth-child {
+  color: rgba(188, 184, 184, 0.95);
+  padding-top: 10px;
+}
+.fith-child {
+  color: rgba(188, 184, 184, 0.95);
+  padding-top: 10px;
+}
+.sixth-child {
+  color: rgba(188, 184, 184, 0.95);
+  padding-top: 10px;
+}
+.koko {
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  margin-top: 10px;
+  border-radius: 15px;
+  padding: 10px;
+  width: 37%;
+}
+.koko:hover {
+  background-color: brown;
+  color: white;
+}
+.yopa {
+  border-radius: 15px;
+  background-color: #ffebcd;
+  box-shadow: 10px 10px 10px 10px cornsilk;
+  cursor: pointer;
+  padding: 10px;
+  width: 35%;
+  border: none;
+}
+.yopa:hover {
+  background-color: blue;
+  color: #ffffff;
+}
+.dop {
+  border-radius: 15px;
+  background-color: blanchedalmond;
+  padding: 10px;
+  cursor: pointer;
+  width: 20%;
+  margin-top: 40px;
+  margin-bottom: 2%;
+  border: none;
+  margin-left: 10px;
+}
+.dop:hover {
+  background-color: red;
+  color: white;
+}
+h2 {
+  margin-bottom: 2%;
+  margin-left: 10px;
+  padding-left: 7%;
+  line-height: 1;
+}
+.wem {
+  padding-top: 30%;
+}
+body {
+  margin: 0px auto;
+  line-height: 1.2;
+}
+.world {
+}
+.win {
+  background-color: black;
+  margin-left: -20px;
+  margin-right: -20px;
+  color: white;
+}
+.grid-container {
+  display: grid;
+  justify-items: center;
+  padding-right: 4%;
+  grid-gap: 10px;
+  justify-content: space-evenly;
+  grid-template-columns: 280px 280px 280px;
+  grid-template-rows: 200px 200px 200px;
+}
+.excel {
+  margin-right: 80%;
+}
+.xom {
+  margin-right: 80%;
+}
+.zep {
+  margin-right: 80%;
+}
+.alep {
+  margin-right: 80%;
+}
+.del {
+  margin-right: 80%;
+}
+.cal {
+  margin-right: 80%;
+}
+.grid-item {
+  border: 1px solid grey;
+  margin-bottom: 10px;
+  padding: 30px 30px;
+  text-align: justify;
+}
